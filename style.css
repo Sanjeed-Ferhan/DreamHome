@@ -1,0 +1,107 @@
+
+.body{
+	background: #B9D6FF;
+}
+.headerwrapper{
+	background-color: white;
+	
+}
+
+.header{
+width: 90%;
+overflow: hidden;
+margin:0 auto;
+
+}
+.logo{
+
+width: 20%;
+float: left;
+}
+.logo img{
+	width: 100%;
+
+}
+.menu{
+float: right;
+
+width: 70%;
+
+}
+
+.menu ul li{
+	float: left;
+	list-style: none;
+
+}
+
+.menu ul li a{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	margin-right: 40px;
+	color: #67767C;
+	text-transform: uppercase;
+	text-decoration: none;
+	cursor: pointer;
+	display: inline-block;
+}
+.menu ul li a:hover{
+	text-decoration:underline;
+
+}
+.banner{
+	width: 90%;
+	margin: 0 auto;
+
+}
+.banner img{
+	width: 100%;
+
+}
+.ContentWrapper{
+margin: 50px 0px;
+}
+.content{
+
+width: 90%
+overflow: hidden;
+margin: 0 auto;
+
+}
+.villas{
+margin-left: 18%;
+width:15%;
+float: left;
+margin-right: 100px;
+}
+.villas img{
+	width: 100%
+}
+.service{
+width:15%;
+float: left;
+margin-right: 100px;
+
+}
+.service img{
+	width: 100%
+}
+.condos{
+width:15%;
+float: left;
+
+}
+.condos img{
+	width: 100%
+}
+h3{
+	text-align: center;
+	
+}
+.button{
+	height: 50px;
+	width: 100px;
+	border-radius: 10px;
+	color:#3C597B;
+}
